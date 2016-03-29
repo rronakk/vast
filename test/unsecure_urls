@@ -1,0 +1,322 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<Ad id="1759958">
+<InLine>
+<AdSystem version="5.0.49">MediaMath T1 VADS</AdSystem>
+<AdTitle>
+<![CDATA[ with swf banner ]]>
+</AdTitle>
+<Description>
+<![CDATA[ with swf banner ]]>
+</Description>
+<Error>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=err&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Error>
+<Impression>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/notify?price=12&id=asfasf&cid=1759958&exch=brx&protocol_version=1&sid=111666111
+]]>
+</Impression>
+<Impression>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=imp&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Impression>
+<Creatives>
+<Creative id="1759958" sequence="0">
+<Linear>
+<Duration>00:00:15</Duration>
+<TrackingEvents>
+<Tracking event="rewind">
+<![CDATA[
+http://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=rewind&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[
+http://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=close&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="expand">
+<![CDATA[
+http://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=expand&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="collapse">
+<![CDATA[
+http://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=collapse&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[
+http://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=q4&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=unmute&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=q1&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=q2&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="creativeView">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=vv&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=fullscreen&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=pause&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=resume&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="acceptInvitation">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=acceptInvitation&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=q3&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=vst&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_aid=123&event=mute&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</Tracking>
+</TrackingEvents>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ http://www.mediamath.com ]]>
+</ClickThrough>
+<ClickTracking>
+<![CDATA[
+https://pixel.mathtag.com/click/img?cb=7214626542944627712&mt_aid=123&event=click&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111
+]]>
+</ClickTracking>
+</VideoClicks>
+<MediaFiles>
+<MediaFile type="video/ogg" bitrate="1982" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/d919ec210128e046885087feb6f87041355c742b-9b24-4f40-9285-bd16f3ed0787.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="2076" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+http://d18qvo33n7nejy.cloudfront.net/d0a5efbfdd424c673bc22dbaca5805366d979308-730d-4690-8638-b1f2bbdb916f.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="2009" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/bb0fecc860f66d780fc64a063cfe75bbe8a1b236-58a6-419b-8d40-9164d288eebb.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="3593" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/c29e47402f47b00291bf0ab9fe3b4889992290d9-aa07-4114-b3e7-56fabad15efb.webm
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="3882" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/eb8e6fd5d5d86863d18d068dd0be4c8da4318fec-37ef-4215-9738-3695b433473c.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="2012" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/aad6f34e6accfd90000ad8436e549d8fc4dd7dc9-8ebb-42f8-ba76-5107dc050fda.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="4145" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/c89483c24ac3294d89d1cfea6a68f75f010ad44e-4406-4230-ab6d-7d8eb91e6fad.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="1985" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/924b8aa5d02cf25e800a75ce3bbb134d81508a48-b2ae-4b64-98aa-668dbd0440a1.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="1958" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/9d843578b7763040b036aee81469b48927826366-cc79-4bae-8abb-8b1f8f1151dc.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/x-flv" bitrate="489" delivery="progressive" width="256" height="144" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/09ea52c273d4fc7f93bb0f1a3b36206ae8140d39-9781-40f6-9214-6526b2a5ed81.flv
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="3942" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/958467ff903a137ad264c59f8860a98accfb27ec-f358-4c43-8ab2-4018765181bc.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="435" delivery="progressive" width="256" height="144" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/d74c7dcaae97f10c115079878757daba761a0778-95d6-4a81-957c-d41833073218.webm
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="1941" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/be9eeabe25f2996d0cb370b815fabd2312b4dab3-7910-46d5-be2f-ac1d62b4f4e0.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="1785" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/8ddecae542780f9dc1f795b5b08e8c1c0fbf85c8-1a94-4e53-95ab-b3341ffe4b83.webm
+]]>
+</MediaFile>
+<MediaFile type="video/x-flv" bitrate="4156" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/1e66edc0cf574c077abbb5d1602741befcc18778-85b4-4d25-9e4f-f539fffde713.flv
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="1943" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/c9e1f633cc399d246ad354bba012a54898e912dd-0bab-4664-b87a-0a7fd460616d.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="1767" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/29b12f7398883ad4999b142cb73cbc9284ba8b96-1e08-4d37-9a1a-06a62f31acc7.webm
+]]>
+</MediaFile>
+<MediaFile type="video/x-flv" bitrate="4099" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/129a83c3ee0db2bec63343d92488cd493b6da365-e9f3-45f6-a7ef-b520ab76ca06.flv
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="1972" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/89e750d0eb186e23ce15bc0f4a9e7e0ff7bf41b7-91fe-463c-a951-cff751c2b7de.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="1793" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/1525e393907917033b3261321db0979cc68dad34-417c-464b-8c1a-e69caf0cad1b.webm
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="359" delivery="progressive" width="300" height="168" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/60f61b8f88553b10af7263d6b61354fafd3bfb4c-be8c-46c6-8d87-a5c36af7af24.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="4024" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/292f6b6bad79c9f1a5ec5b089d499368ffbf2561-7c6f-4610-8074-8f0aa22dc33e.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="2023" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/4ac5502e71d6fd32b21eec5307494425fe402c5a-1891-44af-873e-27183ed17593.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="3584" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/583d0c39bb9f0cbbd89903609791a65d9b061c44-12c9-43a7-a453-59b1970cc09c.webm
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="2008" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/d0a82bae530c0842c634ba6ba2c1410d1aeaafee-e065-4736-994e-31592b04b883.ogg
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="4089" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/bf0b0e11f2f1b067a3c61f63a8597f42a6f77c3e-8cab-426d-8b80-405f18c657e2.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="486" delivery="progressive" width="256" height="144" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/486413d7fbfc005d43d319cfef3af2f810e54f05-425b-44b8-a817-104ca45810d7.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/webm" bitrate="1814" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/22eb95d3485f40ec3b82100906461599b81115b0-fb1f-4a7d-ac4e-9a83f8cdd5f9.webm
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="3915" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/eacb1c4a7640f053fe24d1519b3f5a85e943d613-bceb-4df3-a2f9-f2bb351e6e51.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/x-flv" bitrate="2029" delivery="progressive" width="512" height="288" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/4e6870bf5c49019397ca1ceb48d4c8b64cd0b4af-ad63-41f3-8ecf-0952ed0ba21c.flv
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="2020" delivery="progressive" width="852" height="478" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/8826d48a816f6a4c35162b875c678a0340b9c7ac-453c-4972-a0f5-c5771b442b67.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/x-ms-wmv" bitrate="509" delivery="progressive" width="256" height="144" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/664e532d90b8a0364f510a44ba33a89efbd29620-f49a-4241-b536-7f92c4ce53b0.wmv
+]]>
+</MediaFile>
+<MediaFile type="video/mp4" bitrate="2076" delivery="progressive" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/d0a5efbfdd424c673bc22dbaca5805366d979308-730d-4690-8638-b1f2bbdb916f.mp4
+]]>
+</MediaFile>
+<MediaFile type="video/ogg" bitrate="510" delivery="progressive" width="256" height="144" scalable="true" maintainAspectRatio="true">
+<![CDATA[
+https://d18qvo33n7nejy.cloudfront.net/c0d74b0a1ca5b25a452563ca89e5d329a6e43037-9df8-448b-9256-f6de0250a218.ogg
+]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+<Creative id="1759958_companion" sequence="0">
+<CompanionAds>
+<Companion id="companion_1" width="200" height="300">
+<StaticResource creativeType="application/x-shockwave-flash">
+<![CDATA[
+https://s3.amazonaws.com/mediamath-test/1a1a6a59c75e52be797a4ebb457c510b.1003_mapi_01_15s_40kb_18fps_728x90_eng
+]]>
+</StaticResource>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_cmid=1&mt_aid=123&event=companionImpression&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111&mt_uuid=77c3201a-89d2-4837-9fd8-c45b47c07824
+]]>
+</Tracking>
+</TrackingEvents>
+<CompanionClickThrough>
+<![CDATA[
+https://ewr-apiqa1-n4.mediamath.com/mathtag/?cb=7214626542944627712&mt_cmid=1&redir=http%3A%2F%2Fwww.mediamath.com&mt_aid=123&event=companionClick&mt_id=1759958&mt_exid=brx&mt_adid=123&mt_stid=111666111&mt_uuid=17fc5f22-bb82-47e6-971a-a9e91437e113
+]]>
+</CompanionClickThrough>
+</Companion>
+</CompanionAds>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>
